@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/HXL/Programming/icpc/main.cpp
+set
+-
+unordered_map
+-
+iostream
+-
+unordered_map
+-
+set
+-
+vector
+-
+algorithm
+-
+
